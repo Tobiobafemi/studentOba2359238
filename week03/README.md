@@ -1,6 +1,6 @@
 # Week 03 – Initial Security Configuration Lab Journal
 
-Student: Tobiabafemi
+Student: Tobi obafemi
 Module: Infrastructure, Processes and Control
 System: Ubuntu 25.10 (GNU/Linux 6.17.x)
 Week: 03
