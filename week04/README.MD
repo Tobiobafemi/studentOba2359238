@@ -2,8 +2,7 @@
 
 This repository documents the implementation of Linux server security hardening and monitoring using Bash scripting and native Ubuntu security tools.
 
-All supporting evidence (command outputs, configuration verification, and script execution results) is provided in a separate `screenshots/` directory. Scripts referenced below are located in the `scripts/` directory.
-
+All supporting evidence (command outputs, configuration verification, and script execution results) is provided in a separate `screenshots/` directory.
 ---
 
 ## Project Overview
