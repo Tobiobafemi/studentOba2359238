@@ -15,7 +15,6 @@ Structure
 
     screenshots/ – Evidence screenshots for all tasks
 
-    data/ – Performance data (CSV)
 
 
 All work was completed on a Linux system using command-line tools.
