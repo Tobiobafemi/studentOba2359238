@@ -58,8 +58,7 @@ Latency was measured using the ping command targeting the local host address 127
 Results showed:
 
     0% packet loss
-
-    Average round-trip time consistently below 0.1 ms
+Average round-trip time consistently below 0.1 ms
 
     Very small jitter between minimum and maximum values
 
